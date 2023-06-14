@@ -19,7 +19,7 @@
 
 **Анализ данных**: 
 
-Папка [EDA]() содержит файлы, относящиеся к работе с данными.
+Папка [EDA]() содержит файлы, относящиеся к работе с данными:
   - `eda.ipynb`: Jupyter Notebook с проведением EDA. Провели предварительную обработку, визуализацию и добавили новые признаки
   - [project_dropped](https://github.com/Alinaereo/Project-AA/blob/main/EDA/project_dropped.csv) - файл с обработанными данными
   - [project_new_feature_year_class](https://github.com/Alinaereo/Project-AA/blob/main/EDA/project_new_feature_year_class.csv): файл с новыми признаком (использовать для машинного обучения и тестирования гипотез)
