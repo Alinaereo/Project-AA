@@ -20,7 +20,7 @@
 
 **Анализ данных**: 
 
-Папка [EDA]() содержит файлы, относящиеся к работе с данными:
+Папка [EDA](https://github.com/Alinaereo/Project-AA/tree/main/EDA) содержит файлы, относящиеся к работе с данными:
   - [EDA](https://github.com/Alinaereo/Project-AA/blob/main/EDA/EDA.ipynb): Jupyter Notebook с проведением EDA. Провели предварительную обработку, визуализацию и добавили новые признаки
   - [EDA](https://github.com/Alinaereo/Project-AA/blob/main/EDA/EDA.html): файл с кодом в формате html
   - [project_dropped](https://github.com/Alinaereo/Project-AA/blob/main/EDA/project_dropped.csv) - файл с обработанными данными
