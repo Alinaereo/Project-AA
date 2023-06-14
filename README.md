@@ -32,7 +32,7 @@
 
 В папке [ML](https://github.com/Alinaereo/Project-AA/tree/main/ML) содержатся файлы по машинному обучению:
 - [machine_learning](https://github.com/Alinaereo/Project-AA/blob/main/ML/machine_learning.ipynb): обучаем модели предсказывать рейтинг и выявляем оптимальные метрики.
-- [machine_learning.html]() - файл кода c машиннsv обучением в формате html
+- [machine_learning.html](https://github.com/Alinaereo/Project-AA/blob/main/ML/machine_learning.html) - файл кода c машиннsv обучением в формате html
 
 machine_learning
 
