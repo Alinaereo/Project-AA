@@ -17,12 +17,12 @@
   - [parsing.html](https://github.com/Alinaereo/Project-AA/blob/main/parsing/parsing.html) - файл с кодом для парсинга в формате html
   
 
-**Работа с данными**: 
+**Анализ данных**: 
 
 Папка [EDA]() содержит файлы, относящиеся к работе с данными.
   - `eda.ipynb`: Jupyter Notebook с проведением EDA. Провели предварительную обработку, визуализацию и добавили новые признаки
   - [project_dropped] () - файл с обработанными данными
-  - [project_new_feature_year_class](https://github.com/Alinaereo/Project-AA/blob/main/project_new_feature_year_class.csv): файл с новыми признаком (использовать для машинного обучения и тестирования гипотез)
+  - [project_new_feature_year_class](https://github.com/Alinaereo/Project-AA/blob/main/EDA/project_new_feature_year_class.csv): файл с новыми признаком (использовать для машинного обучения и тестирования гипотез)
 
 **Гипотезы**: 
 - :тестируем наши гипотезы о собранных данных
