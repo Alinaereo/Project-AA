@@ -13,13 +13,14 @@
 
 В папке [parsing](https://github.com/Alinaereo/Project-AA/tree/main/parsing) вы можете найти следующие файлы:
   - [parsing](https://github.com/Alinaereo/Project-AA/blob/main/parsing/parsing.ipynb) код для выполнения парсинга данных. 
-  - [project2.csv](https://github.com/Alinaereo/Project-AA/blob/main/parsing/project2.csv): Файл с данными, полученными в результате парсинга сайта иви. 
+  - [project2](https://github.com/Alinaereo/Project-AA/blob/main/parsing/project2.csv): Файл с данными, полученными в результате парсинга сайта иви. (использовать для EDA)
   - [parsing.html](https://github.com/Alinaereo/Project-AA/blob/main/parsing/parsing.html) - файл с кодом для парсинга в формате html
   
 
 **EDA**: Эта папка содержит файлы и скрипты, относящиеся к анализу данных.
   - `eda.ipynb`: Jupyter Notebook с проведением EDA. Провели предварительную обработку, визуализацию и добавили новые признаки
-  - : файл с обработкой и новыми признаками для дальнешей работы
+  - [project_dropped] () - файл с обработанными данными
+  -  : файл с новыми признаком (использовать для машинного обучения и тестирования гипотез)
 
 **Гипотезы**: 
 - :тестируем наши гипотезы о собранных данных
