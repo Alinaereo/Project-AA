@@ -9,10 +9,12 @@
 
 Наш проект включает в себя следующие компоненты:
 
-- **Сбор данных**: 
+- **Сбор данных**: \n
 В папке [parsing](https://github.com/Alinaereo/Project-AA/tree/main/parsing) вы можете найти следующие файлы:
-  - код для выполнения парсинга данных.
+  - [parsing](https://github.com/Alinaereo/Project-AA/blob/main/parsing/parsing.ipynb)код для выполнения парсинга данных. 
   - [project2.csv](https://github.com/Alinaereo/Project-AA/blob/main/parsing/project2.csv): Файл с данными, полученными в результате парсинга сайта иви. 
+  - [parsing.html]() - файл с кодом для парсинга в формате html
+  
 
 - **EDA**: Эта папка содержит файлы и скрипты, относящиеся к анализу данных.
   - `eda.ipynb`: Jupyter Notebook с проведением EDA. Провели предварительную обработку, визуализацию и добавили новые признаки
