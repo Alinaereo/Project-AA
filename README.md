@@ -27,7 +27,7 @@
   - [project_new_feature_year_class](https://github.com/Alinaereo/Project-AA/blob/main/EDA/project_new_feature_year_class.csv): файл с новыми признаками (использовать для машинного обучения и тестирования гипотез)
 
 **Гипотезы**: 
-- [hypotheses]():тестируем наши гипотезы о собранных данных
+- [hypotheses](https://github.com/Alinaereo/Project-AA/blob/main/hypotheses/hypotheses.ipynb): тестируем наши гипотезы о собранных данных
 - [hypotheses](https://github.com/Alinaereo/Project-AA/blob/main/hypotheses/hypotheses.html): файл кода в формате html
 
 **Машинное обучение**: 
