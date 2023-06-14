@@ -10,6 +10,7 @@
 Наш проект включает в себя следующие компоненты:
 
 - **Сбор данных**: 
+В папке [parsing](https://github.com/Alinaereo/Project-AA/tree/main/parsing) вы можете найти следующие файлы:
   - код для выполнения парсинга данных.
   - [project2.csv](https://github.com/Alinaereo/Project-AA/blob/main/parsing/project2.csv): Файл с данными, полученными в результате парсинга сайта иви. 
 
